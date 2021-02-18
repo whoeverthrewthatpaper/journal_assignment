@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\journal_assignment\bin\Debug\netcoreapp3.1\journal_assignment.exe
+C:\Users\HP\source\repos\journal_assignment\bin\Debug\netcoreapp3.1\journal_assignment.deps.json
+C:\Users\HP\source\repos\journal_assignment\bin\Debug\netcoreapp3.1\journal_assignment.runtimeconfig.json
+C:\Users\HP\source\repos\journal_assignment\bin\Debug\netcoreapp3.1\journal_assignment.runtimeconfig.dev.json
+C:\Users\HP\source\repos\journal_assignment\bin\Debug\netcoreapp3.1\journal_assignment.dll
+C:\Users\HP\source\repos\journal_assignment\bin\Debug\netcoreapp3.1\journal_assignment.pdb
+C:\Users\HP\source\repos\journal_assignment\obj\Debug\netcoreapp3.1\journal_assignment.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\journal_assignment\obj\Debug\netcoreapp3.1\journal_assignment.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\journal_assignment\obj\Debug\netcoreapp3.1\journal_assignment.AssemblyInfo.cs
+C:\Users\HP\source\repos\journal_assignment\obj\Debug\netcoreapp3.1\journal_assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\journal_assignment\obj\Debug\netcoreapp3.1\journal_assignment.dll
+C:\Users\HP\source\repos\journal_assignment\obj\Debug\netcoreapp3.1\journal_assignment.pdb
+C:\Users\HP\source\repos\journal_assignment\obj\Debug\netcoreapp3.1\journal_assignment.genruntimeconfig.cache
